@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="php@39b6b843-e0e9-4fd2-9588-fe256bbb536f">
+          <settings>
+            <list>
+              <mapping local-root="$USER_HOME$/code" remote-root="/home/vagrant/code" />
+              <mapping local-root="$PROJECT_DIR$/.." remote-root="/home/vagrant/source" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
